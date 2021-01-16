@@ -1,9 +1,6 @@
 #include <stdio.h>
 
-int main()
-{
-   int healt = 100;
-   printf(healt);
-
+int main() {
+    printf("Hello, World!\n");
     return 0;
 }

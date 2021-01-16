@@ -1,2 +1,3 @@
-main
-/home/runner/Programacion-Estructurada/main.c
+main.c
+cmake-build-debug
+.idea
