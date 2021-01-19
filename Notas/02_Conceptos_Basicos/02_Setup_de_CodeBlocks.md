@@ -14,7 +14,7 @@ Se desarrolla en C ++ usando wxWidgets como el kit de herramientas GUI.
 
 Vamos a la página de codeblocks (http://www.codeblocks.org/) y vamos a Descargar o Downloads:
 
-![src/programacionEstructurada_1.png](src/programacionEstructurada_1.png)
+![src/programacionEstructurada_1.png](../src/programacionEstructurada_1.png)
 
 Damos click en «Download the binary release» y ahí elegimos el sistema operativo que cada uno tenga:
 
