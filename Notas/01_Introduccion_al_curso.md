@@ -1,4 +1,4 @@
-# Clase 1 *Introducción al curso*
+# Clase 1 Introducción al curso
 
 ¡Bienvenidos al curso de Programación Estructurada!
 
