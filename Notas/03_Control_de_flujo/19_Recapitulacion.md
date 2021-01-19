@@ -8,7 +8,7 @@ Empezamos con condicionales o sentencias condicionales. Estas son instrucciones 
 
 La estructura para escribir una condición es la siguiente:
 
-![src/programacionEstructurada_43.png](src/programacionEstructurada_43.png)
+![src/programacionEstructurada_43.png](../src/programacionEstructurada_43.png)
 
 Dentro del paréntesis después de la instrucción if, escribimos la operación que va a ser la condición a revisar. Si esta se cumple entra al bloque de cumplimiento de la condición y podemos ejecutar instrucciones. Si no se cumple la condición, el programa continua y no entra al bloque de cumplimiento de la condición.
 
@@ -44,11 +44,11 @@ Otra estructura de control de flujo que podemos utilizar es el switch. Esta es u
 
 Su estructura es la siguiente:
 
-![src/programacionEstructurada_44.png](src/programacionEstructurada_44.png)
+![src/programacionEstructurada_44.png](../src/programacionEstructurada_44.png)
 
 En esta estructura se evalúa una expresión y se evalúa cada caso potencial de resultado con respecto a esa instrucción, o sea, si en la expresión se evalúa una variable de tipo int, en los casos se evalúan valores de tipo int. Si en la expresión se evalúan variables de tipo char, en los casos se evalúan valores de tipo char, por ejemplo:
 
-![src/programacionEstructurada_45.png](src/programacionEstructurada_45.png)
+![src/programacionEstructurada_45.png](../src/programacionEstructurada_45.png)
 
 **Loops**
 
@@ -60,7 +60,7 @@ El iterador While es una estructura de control donde el bloque de instrucciones 
 
 La sintaxis es la siguiente:
 
-![src/programacionEstructurada_46.png](src/programacionEstructurada_46.png)
+![src/programacionEstructurada_46.png](../src/programacionEstructurada_46.png)
 
 Después de la instrucción while dentro de los paréntesis tenemos la condición, siempre que esta se cumpla el bloque al cumplimiento de la condición se repetirá. Dentro de los corchetes se encuentra el bloque al cumplimiento de la condición, este es una serie de instrucciones que queramos que se repita. Al dejar de cumplirse la condición o no cumplirse en lo absoluto, el flujo del programa seguirá después de los corchetes.
 
@@ -70,7 +70,7 @@ El iterador for es una estructura de control que nos permite repetir un bloque d
 
 La sintaxis de un for es la siguiente:
 
-![src/programacionEstructurada_47.png](src/programacionEstructurada_47.png)
+![src/programacionEstructurada_47.png](../src/programacionEstructurada_47.png)
 
 Después de la instrucción for, dentro de los paréntesis la estructura se divide en tres partes: inicialización, condición e incremento.
 
@@ -82,7 +82,7 @@ Este iterador es similar al while, con la diferencia de que la condición se pru
 
 Su sintaxis es la siguiente:
 
-![src/programacionEstructurada_48.png](src/programacionEstructurada_48.png)
+![src/programacionEstructurada_48.png](../src/programacionEstructurada_48.png)
 
 De manera similar el while, tenemos una condición y siempre que esta se cumpla un bloque se repetirá. La diferencia se encuentra con la instrucción do, en la que se cumplirá ese bloque antes de checar la condición y se repetirá.
 
@@ -92,11 +92,11 @@ Un arreglo es una serie de elementos del mismo tipo de dato y almacenados de man
 
 De la misma manera que una variable nosotros podemos declarar e inicializar un arreglo unidimensional, también llamados vectores, la sintaxis es la siguiente:
 
-![src/programacionEstructurada_49.png](src/programacionEstructurada_49.png)
+![src/programacionEstructurada_49.png](../src/programacionEstructurada_49.png)
 
 Para declarar un arreglo definimos al igual que una variable su tipo de dato y su nombre, seguido de esto dentro de corchetes cuadrados ingresamos el tamaño de nuestro arreglo. Con esto indicamos que va a ser un arreglo y su tamaño.
 
-![src/programacionEstructurada_50.png](src/programacionEstructurada_50.png)
+![src/programacionEstructurada_50.png](../src/programacionEstructurada_50.png)
 
 La estructura es similar a declarar una variable con la diferencia de que agregamos valores dentro del contenido del arreglo. Estos valores van dentro de corchetes separados por comas.
 
@@ -104,11 +104,11 @@ Los arreglos bidimensionales también llamados matrices son arreglos de dos dime
 
 La sintaxis para declarar e inicializar un arreglo bidimensional es la siguiente:
 
-![src/programacionEstructurada_51.png](src/programacionEstructurada_51.png)
+![src/programacionEstructurada_51.png](../src/programacionEstructurada_51.png)
 
 Para declarar dentro de la misma manera que unidimensional definimos el tipo de dato y nombre. Adicionalmente agregamos doble corchetes cuadrados, el primero para indicar el número de filas y el segundo para el número de columnas.
 
-![src/programacionEstructurada_52.png](src/programacionEstructurada_52.png)
+![src/programacionEstructurada_52.png](../src/programacionEstructurada_52.png)
 
 Para inicializar el arreglo, agregamos de igual manera entre corchetes los valores, separando cada fila en corchetes independientes, separados por comas. Y dentro de estos corchetes agregamos los valores también separados por comas.
 
@@ -123,7 +123,7 @@ Una par de estructuras comúnmente utilizadas conjuntamente son los arreglos e i
 
 Para poder utilizar el iterador for junto con un arreglo bidimensional es necesario entender el concepto de un for anidado. Esto es un for dentro de un for, la sintaxis es la siguiente:
 
-![src/programacionEstructurada_53.png](src/programacionEstructurada_53.png)
+![src/programacionEstructurada_53.png](../src/programacionEstructurada_53.png)
 
 En esta estructura al inicial el for, se recorre vuelta por vuelta ambos fors, iniciando por la primera vuelta del primer for y continuando con todas las vueltas del segundo for. Siguiendo con la siguiente vuelta del primer for y continuando con todas las vueltas del segundo for, y así sucesivamente.
 

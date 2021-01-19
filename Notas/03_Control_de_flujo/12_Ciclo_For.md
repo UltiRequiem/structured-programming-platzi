@@ -10,7 +10,7 @@ Este ciclo se compone de tres partes:
 
 Teniendo en cuenta el siguiente ejemplo:
 
-![src/programacionEstructurada_34.png](src/programacionEstructurada_34.png)
+![src/programacionEstructurada_34.png](../src/programacionEstructurada_34.png)
 
 Nosotros declaramos dos variables que permiten al usuario ingresar el valor de los limites superior e inferior. Usamos for para imprimir los números en orden descendentes, en la primera parte inicializamos una variable 'i' con el valor del límite superior, en la segunda parte evaluamos si la variable i es mayor o igual al límite inferior, y en la tercera parte decrementamos la variable i.
 

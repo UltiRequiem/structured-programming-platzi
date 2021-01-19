@@ -13,7 +13,7 @@ Se llaman operadores relacionales o de comparación a aquellos que permiten comp
 
 Tenemos el siguiente ejemplo:
 
-![src/programacionEstructurada_30.png](src/programacionEstructurada_30.png)
+![src/programacionEstructurada_30.png](../src/programacionEstructurada_30.png)
 
 Declaramos dos variables, A y B, y le asignamos los valores de 5 y 10, respectivamente. Con este ejemplo podemos ver cada uno de los operadores relacionales:
 
@@ -32,7 +32,7 @@ Declaramos dos variables, A y B, y le asignamos los valores de 5 y 10, respectiv
 
 Teniendo en cuenta el siguiente ejemplo:
 
-![src/programacionEstructurada_31.png](src/programacionEstructurada_31.png)
+![src/programacionEstructurada_31.png](../src/programacionEstructurada_31.png)
 
 Hacemos uso de los operadores lógicos para evaluar ciertas condiciones.
 

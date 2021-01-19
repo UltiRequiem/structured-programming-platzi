@@ -12,7 +12,7 @@ Para comprender mejor como funciona una cadena de caracteres en C debemos saber 
 
 En nuestro siguiente ejemplo:
 
-![src/programacionEstructurada_42.png](src/programacionEstructurada_42.png)
+![src/programacionEstructurada_42.png](../src/programacionEstructurada_42.png)
 
 Declaramos un arreglo 'name' de tipo carácter con un tamaño de 50 y una variable 'size' de tipo entero. Imprimimos en pantalla un mensaje para que el usuario sepa cuando ingresar la cadena de nombre con gets, después imprimimos la cadena ingresada con puts y guardamos el tamaño de la cadena en size para posteriormente imprimirla.
 

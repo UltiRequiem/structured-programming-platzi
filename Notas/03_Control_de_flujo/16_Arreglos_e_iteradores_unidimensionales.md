@@ -11,7 +11,7 @@ Ya vimos los arreglos unidimensionales y ya hemos guardado los datos de forma ma
 
 En el siguiente ejemplo:
 
-![src/programacionEstructurada_40.png](src/programacionEstructurada_40.png)
+![src/programacionEstructurada_40.png](../src/programacionEstructurada_40.png)
 
 Declaramos un arreglo de tipo entero con un tamaño de 11 y usamos el ciclo for para imprimir el arreglo. Los datos guardados dentro del arreglo es el valor de 'i' multiplicado por sí mismo, es decir, i x i.
 

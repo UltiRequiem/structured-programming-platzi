@@ -6,7 +6,7 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 
 Tenemos el siguiente ejemplo:
 
-![src/programacionEstructurada_32.png](src/programacionEstructurada_32.png)
+![src/programacionEstructurada_32.png](../src/programacionEstructurada_32.png)
 
 Declaramos una variable entera 'option' y esperamos que el usuario ingrese un número cualquiera entre el 1 y el 5. Si el número se encuentra dentro del rango, nos imprimirá un mensaje que nos diga el número elegido. Con default se ejecuta en caso de que el número ingresado no cumpla con ninguna de las condiciones, es decir, no se encuentra dentro del rango.
 

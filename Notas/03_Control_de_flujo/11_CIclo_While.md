@@ -10,7 +10,7 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 
 Teniendo en cuenta el siguiente ejemplo:
 
-![src/programacionEstructurada_33.png](src/programacionEstructurada_33.png)
+![src/programacionEstructurada_33.png](../src/programacionEstructurada_33.png)
 
 Nosotros tenemos dos variables: limit que permite al usuario ingresar el límite de la iteración e i que inicializa en uno. Con while repetiremos e imprimiremos los números según nuestro límite.
 

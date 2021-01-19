@@ -18,7 +18,7 @@ Los bucles anidados con variables dependientes son los bucles en los que la vari
 
 En nuestro ejemplo:
 
-![src/programacionEstructurada_41.png](src/programacionEstructurada_41.png)
+![src/programacionEstructurada_41.png](../src/programacionEstructurada_41.png)
 
 Declamaros una matriz de 4 x 5, es decir, tendrá 4 filas y 5 columnas, y usamos un bucle anidado con variables independientes. Nuestro primer bucle for representa las filas de la matriz y el segundo bucle for representa las columnas de la matriz.
 

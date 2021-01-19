@@ -10,13 +10,13 @@ Un array de tipo unidimensional es básicamente un vector de datos o lista. Dic
 
 Debemos tener en cuenta que la posición de los arreglos siempre empiezan en cero y terminan en n-1, es decir, imaginemos que tenemos el siguiente arreglo de caracteres:
 
-![src/programacionEstructurada_36.png](src/programacionEstructurada_36.png)
+![src/programacionEstructurada_36.png](../src/programacionEstructurada_36.png)
 
 'L I N K' es un arreglo de tamaño cuatro (que acepta cuatro caracteres), pero vemos que la posición empieza en cero y va hasta el tres.
 
 En nuestro siguiente ejemplo:
 
-![src/programacionEstructurada_37.png](src/programacionEstructurada_37.png)
+![src/programacionEstructurada_37.png](../src/programacionEstructurada_37.png)
 
 Tenemos tres variables de diferentes tipos. La primera variable es tipo entero llamado integerList de tamaño tres, el segundo es una variable de tipo flotante llamada floatList de tamaño cinco y el tercero es una variable de tipo carácter llamada charList de tamaño cuatro.
 

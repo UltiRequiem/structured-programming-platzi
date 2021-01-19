@@ -6,13 +6,13 @@ Un arreglo bidimensional es interpretado como un arreglo unidimensional con n n√
 
 Por ejemplo, digamos que tenemos un arreglo de 3 x 4 en donde:
 
-![src/programacionEstructurada_38.png](src/programacionEstructurada_38.png)
+![src/programacionEstructurada_38.png](../src/programacionEstructurada_38.png)
 
 Siendo un arreglo bidimensional o matriz de 3 x 4 significa que 3 filas y 4 columnas (recordemos que las posiciones de los arreglos comienzan en cero).
 
 En el siguiente ejemplo:
 
-![src/programacionEstructurada_39.png](src/programacionEstructurada_39.png)
+![src/programacionEstructurada_39.png](../src/programacionEstructurada_39.png)
 
 Declaramos una matriz de 4 x 4 de tipo entero y luego ingresamos manualmente los valores, finalmente imprimimos la matriz en pantalla.
 
