@@ -1,4 +1,4 @@
-# Curso de Programación Estructurada explicado con C en Platzi
+# Curso de Programación Estructurada explicado con C
 **Ventajas de la Programación Estructurada:**
 
 - Los programas son más fáciles de entender, pueden ser leídos de forma secuencial y no hay necesidad de hacer engorrosos seguimientos en saltos de líneas (GOTO) dentro de los bloques de código para intentar entender la lógica.
