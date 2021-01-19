@@ -1,9 +1,8 @@
-
 ### Clase 26 *Escritura y lectura de archivos*
 
 **Escritura de archivos**
 
-![src/programacionEstructurada_63.png](src/programacionEstructurada_63.png)
+![src/programacionEstructurada_63.png](../src/programacionEstructurada_63.png)
 
 Y creamos un fichero llama DatosPersonales con la combinación wb. Recordemos que la w crea un nuevo archivo y lo abre para la escritura, mientras que la b abre el archivo en modo binario. En su interior escribimos el código para ingresar los datos de la estructura person por teclado y posteriormente imprimirlo que sería lo guardado dentro del archivo.
 
@@ -27,7 +26,7 @@ También tenemos:
 
 **Lectura de archivos**
 
-![src/programacionEstructurada_64.png](src/programacionEstructurada_64.png)
+![src/programacionEstructurada_64.png](../src/programacionEstructurada_64.png)
 
 Teniendo en cuenta este ejemplo. Para eso cambiamos nuestra combinación a rb en donde: r nos abrirá un archivo para su lectura y b lo abrirá en modo binario. Nosotros también usamos la función fread para extraer la información guardada dentro de nuestro fichero. Similar al fwrite, esta función también recibe cuatro parámetros:
 

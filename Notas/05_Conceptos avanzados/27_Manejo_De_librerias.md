@@ -6,11 +6,11 @@ Nosotros también somos capaces de crear nuestras propias librerías para hacer 
 
 Haremos una librería básica de prueba que tendrá cuatro operaciones, para eso creamos un archivo llamado "operaciones.h" y ponemos en su interior las cuatro funciones:
 
-![src/programacionEstructurada_65.png](src/programacionEstructurada_65.png)
+![src/programacionEstructurada_65.png](../src/programacionEstructurada_65.png)
 
 Con esto ya está creada la librería. Ahora debemos crear nuestro código que llamara esa librería:
 
-![src/programacionEstructurada_66.png](src/programacionEstructurada_66.png)
+![src/programacionEstructurada_66.png](../src/programacionEstructurada_66.png)
 
 Como vemos, cuando incluimos a nuestra librería recién creada ponemos el nombre entre comillas dobles (" ") en vez del típico < >.
 

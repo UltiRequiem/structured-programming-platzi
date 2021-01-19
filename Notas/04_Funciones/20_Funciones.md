@@ -27,7 +27,7 @@ Se pueden utilizar para:
 
 Consideremos el siguiente código como ejemplo:
 
-![src/programacionEstructurada_54.png](src/programacionEstructurada_54.png)
+![src/programacionEstructurada_54.png](../src/programacionEstructurada_54.png)
 
 En donde tenemos dos funciones: la función principal main que hemos usado desde los principios de todo este curso y sirve como punto de partida para la ejecución del programa, y la función Addiction que recibe dos parámetros.
 

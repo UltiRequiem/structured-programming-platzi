@@ -4,7 +4,7 @@ En esta lectura vamos a hablar un poco sobre funciones y cómo utilizarlas.
 
 Las funciones son bloques de código que realizan alguna operación o instrucciones. Estas al igual que en matemáticas pueden aceptar datos de entrada, a estos les llamamos parámetros o argumentos y datos de salida. La función ya creada que hemos estado utilizado hasta ahorita, es la función main(). La estructura sería similar a lo siguiente:
 
-![src/programacionEstructurada_56.png](src/programacionEstructurada_56.png)
+![src/programacionEstructurada_56.png](../src/programacionEstructurada_56.png)
 
 ¿Con qué finalidad hacemos estas secciones de código?
 
@@ -15,11 +15,11 @@ Las funciones son bloques de código que realizan alguna operación o instruccio
 
 La sintaxis para escribir una función es la siguiente:
 
-![src/programacionEstructurada_57.png](src/programacionEstructurada_57.png)
+![src/programacionEstructurada_57.png](../src/programacionEstructurada_57.png)
 
 Primero se escribe el tipo de dato de la salida de datos, luego el nombre por el que se identificará la función y finalmente entre paréntesis los parámetros o entrada de datos.
 
-![src/programacionEstructurada_58.png](src/programacionEstructurada_58.png)
+![src/programacionEstructurada_58.png](../src/programacionEstructurada_58.png)
 
 Y entre paréntesis el bloque de instrucciones. No es necesario que una función tenga una entrada y salida de datos, puede tener una, otra, ambas o ninguna.
 

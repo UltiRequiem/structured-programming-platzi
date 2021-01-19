@@ -10,7 +10,7 @@ A cada uno de los datos o elementos almacenados dentro de una estructura se les 
 
 Observemos nuestro siguiente ejemplo:
 
-![src/programacionEstructurada_61.png](src/programacionEstructurada_61.png)
+![src/programacionEstructurada_61.png](../src/programacionEstructurada_61.png)
 
 Declaramos una estructura poniendo struct _nombreEstructura y en su interior los miembros. En nuestro ejemplo tenemos una estructura llamada PersonalData con tres miembros: dos arreglos de caracteres con tamaño 20 llamados nombre y apellido, y un entero llamado edad.
 
@@ -41,7 +41,7 @@ Es el apuntador del fichero para lectura. Usado para abrir el fichero.
 
 Tenemos el siguiente ejemplo:
 
-![src/programacionEstructurada_62.png](src/programacionEstructurada_62.png)
+![src/programacionEstructurada_62.png](../src/programacionEstructurada_62.png)
 
 En el que declaramos una variable 'archivo' y vemos que al usar fopen se envia dos parametros: el primero es el nombre del archivo con la extensión que deseamos y el segundo es el modo.
 

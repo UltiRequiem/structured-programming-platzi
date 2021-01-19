@@ -11,7 +11,7 @@ Básicamente existen dos operadores para manipular los punteros, estos son:
 
 Teniendo en cuenta el siguiente ejemplo:
 
-![src/programacionEstructurada_60.png](src/programacionEstructurada_60.png)
+![src/programacionEstructurada_60.png](../src/programacionEstructurada_60.png)
 
 Contamos con dos variables: una variable flotante llamada 'value' y un apuntador llamado 'apVal'. Podemos ver que para declarar un apuntador es necesario el tipo de dato y poner un asterisco (*) antes del nombre que tendrá nuestro apuntador.
 

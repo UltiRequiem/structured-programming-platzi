@@ -27,7 +27,7 @@ También puede suceder que en un mismo ámbito aparezcan variables  locales y
 
 Un ejemplo de variables locales y globales puede ser vista en nuestro siguiente ejemplo:
 
-![src/programacionEstructurada_55.png](src/programacionEstructurada_55.png)
+![src/programacionEstructurada_55.png](../src/programacionEstructurada_55.png)
 
 Nosotros declaramos al principio del programa una variable global llamada publicText mientras que en nuestra función principal main declaramos otra variable local llamada privateText, además de crear una función void que simplemente imprimirá nuestras variables al ser llamada al igual que en nuestro main.
 

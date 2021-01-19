@@ -15,7 +15,7 @@ Se deben satisfacer dos condiciones para que se pueda resolver un problema recur
 
 A continuación mostramos un ejemplo típico de recursividad, hallar el factorial de un número. En forma de traza con las sucesivas llamadas simuladas con ventanas.
 
-![src/programacionEstructurada_59.png](src/programacionEstructurada_59.png)
+![src/programacionEstructurada_59.png](../src/programacionEstructurada_59.png)
 
 En nuestra función principal main declaramos una variable result que guardara el valor de la función factorial, mientras enviamos como parámetro el valor de 5. Y, además, imprimimos el resultado final.
 
