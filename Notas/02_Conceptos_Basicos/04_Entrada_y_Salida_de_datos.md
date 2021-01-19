@@ -4,7 +4,7 @@ Aprenderemos como podemos tener información que entra y sale de nuestro program
 
 **¿Cómo imprimimos el valor de una variable?**
 
-![src/programacionEstructurada_17.png](src/programacionEstructurada_17.png)
+![src/programacionEstructurada_17.png](../src/programacionEstructurada_17.png)
 
 - #include<librería> usada para “incluir” las declaraciones de otro fichero en la compilación.
 - stdio.h es el fichero que proporciona el núcleo de las capacidades de entrada/salida del lenguaje C (incluye la venerable función printf).
@@ -17,7 +17,7 @@ Aprenderemos como podemos tener información que entra y sale de nuestro program
 
 Printf permite dar formato específicos a la salida de información.
 
-![src/programacionEstructurada_18.png](src/programacionEstructurada_18.png)
+![src/programacionEstructurada_18.png](../src/programacionEstructurada_18.png)
 
 Printf es una función especial porque recibe un número variable de parámetros. El primer parámetro es fijo y es la cadena de formato. En ella se incluye texto a imprimir literalmente y marcas a reemplazar por texto que se obtiene de los parámetros adicionales. Por tanto, printf se llama con tantos parámetros como marcas haya en la cadena de formato más uno (la propia cadena de formato). El símbolo "%" denota el comienzo de la marca de formato. Y al final, después de la coma, se pone el nombre de la variable a imprimir.
 
@@ -32,13 +32,13 @@ En el ejemplo vemos que:
 
 Como sabemos, printf acepta tanto parámetros como marcas haya en la cadena de formato, es decir, podemos imprimir todo el ejemplo anterior en una línea completa.
 
-![src/programacionEstructurada_19.png](src/programacionEstructurada_19.png)
+![src/programacionEstructurada_19.png](../src/programacionEstructurada_19.png)
 
 En el lenguaje C existen caracteres que no son imprimibles o visibles en la consola. También se les llama caracteres de escape, ya que siempre llevan una barra invertida "\" seguido del carácter. En el ejemplo vemos el uso de "\n" que nos proporciona un salto de línea.
 
 **Entrada de datos**
 
-![src/programacionEstructurada_20.png](src/programacionEstructurada_20.png)
+![src/programacionEstructurada_20.png](../src/programacionEstructurada_20.png)
 
 Mediante la función scanf podemos introducir cualquier combinación de valores numéricos, caracteres sueltos y cadenas de caracteres a través del teclado. En definitiva, scanf lee datos formateados de la entrada estándar. Cuando hablamos de datos formateados, nos referimos a que los datos se pueden presentar en distintos formatos. La función devolverá el número de datos que se han introducido correctamente.
 

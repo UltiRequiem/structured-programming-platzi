@@ -58,7 +58,7 @@ Es un espacio reservado en memoria, definido por un tipo de dato y un nombre asi
 
 **Declaración y asignación de una variable en C**
 
-![src/programacionEstructurada_8.png](src/programacionEstructurada_8.png)
+![src/programacionEstructurada_8.png](../src/programacionEstructurada_8.png)
 
 Para declarar una variable es necesario poner el tipo de dato que deseamos, seguido de su nombre. En este ejemplo, nuestro tipo de dato es un entero (int) de nombre healthpoints.
 
@@ -68,7 +68,7 @@ Para asignarle un valor es necesario el nombre de la variable (healthpoints) seg
 
 **Inicialización de una variable**
 
-![src/programacionEstructurada_9.png](src/programacionEstructurada_9.png)
+![src/programacionEstructurada_9.png](../src/programacionEstructurada_9.png)
 
 Para inicializar una variable ponemos primero el tipo de dato (int), el nombre (healthpoints) y el valor que deseamos (100).
 
@@ -80,28 +80,28 @@ Cuando declaramos una variable no le asignamos un valor inicial, en cambio cuand
 
 Para crear nuestro primer proyecto en codeblocks hacemos lo siguiente. Vamos en la pestaña de 'File', luego a 'New' y finalmente 'Project':
 
-![src/programacionEstructurada_10.png](src/programacionEstructurada_10.png)
+![src/programacionEstructurada_10.png](../src/programacionEstructurada_10.png)
 
 Se nos abrirá una nueva ventana en la que elegiremos 'Console application' y damos click en 'Go':
 
-![src/programacionEstructurada_11.png](src/programacionEstructurada_11.png)
+![src/programacionEstructurada_11.png](../src/programacionEstructurada_11.png)
 
 Damos click en 'Next':
 
-![src/programacionEstructurada_12.png](src/programacionEstructurada_12.png)
+![src/programacionEstructurada_12.png](../src/programacionEstructurada_12.png)
 
 Elegimos C y después damos click en 'Next':
 
-![src/programacionEstructurada_13.png](src/programacionEstructurada_13.png)
+![src/programacionEstructurada_13.png](../src/programacionEstructurada_13.png)
 
 Le ponemos un nombre a nuestro proyecto, en 'Folder to create project in' podemos elegir donde deseamos guardar nuestro proyecto, y finalmente damos click en 'Next':
 
-![src/programacionEstructurada_14.png](src/programacionEstructurada_14.png)
+![src/programacionEstructurada_14.png](../src/programacionEstructurada_14.png)
 
 Y finalmente damos click en 'Finish':
 
-![src/programacionEstructurada_15.png](src/programacionEstructurada_15.png)
+![src/programacionEstructurada_15.png](../src/programacionEstructurada_15.png)
 
 Ahora ya podemos trabajar en codeblocks, creando lo que deseemos en lenguaje C (o C++ si es lo que elegiste):
 
-![src/programacionEstructurada_16.png](src/programacionEstructurada_16.png)
+![src/programacionEstructurada_16.png](../src/programacionEstructurada_16.png)

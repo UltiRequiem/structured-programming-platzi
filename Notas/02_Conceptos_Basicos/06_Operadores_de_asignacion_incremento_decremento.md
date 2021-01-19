@@ -4,7 +4,7 @@ Un operador de asignación altera el valor de un objeto sin alterar su tipo. El 
 
 Tenemos el siguiente ejemplo:
 
-![src/programacionEstructurada_22.png](src/programacionEstructurada_22.png)
+![src/programacionEstructurada_22.png](../src/programacionEstructurada_22.png)
 
 Declaramos una variable entera de nombre value y le asignamos (=) el valor 11.
 
@@ -18,7 +18,7 @@ Los operadores unitarios ++ (incremento) y -- (decremento), suman y restan respe
 
 **Pre y Post incremento**
 
-![src/programacionEstructurada_23.png](src/programacionEstructurada_23.png)
+![src/programacionEstructurada_23.png](../src/programacionEstructurada_23.png)
 
 En este ejemplo podemos ver la diferencia entre el pre y el post incremento.
 
@@ -28,7 +28,7 @@ El pre incremento, ++value, añade uno antes de que sea evaluada la expresión,
 
 **Pre y post decremento**
 
-![src/programacionEstructurada_24.png](src/programacionEstructurada_24.png)
+![src/programacionEstructurada_24.png](../src/programacionEstructurada_24.png)
 
 Similar al ejemplo anterior, podemos notar las diferencias entre el pre y el post decremento.
 

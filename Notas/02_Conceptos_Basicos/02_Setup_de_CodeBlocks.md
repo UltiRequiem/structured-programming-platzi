@@ -18,26 +18,26 @@ Vamos a la página de codeblocks (http://www.codeblocks.org/) y vamos a Descarga
 
 Damos click en «Download the binary release» y ahí elegimos el sistema operativo que cada uno tenga:
 
-![src/programacionEstructurada_2.png](src/programacionEstructurada_2.png)
+![src/programacionEstructurada_2.png](../src/programacionEstructurada_2.png)
 
 Tenemos varias opciones, nosotros seleccionaremos «codeblocks-20.03mingw-setup.exe» porque nos descarga automáticamente todo lo que necesitemos para poder instalar codeblocks:
 
-![src/programacionEstructurada_3.png](src/programacionEstructurada_3.png)
+![src/programacionEstructurada_3.png](../src/programacionEstructurada_3.png)
 
 Una vez descargamos es simplemente una instalación estándar, damos doble click o ejecutamos como administrador el programa descargado y nos aparece una ventana:
 
-![src/programacionEstructurada_4.png](src/programacionEstructurada_4.png)
+![src/programacionEstructurada_4.png](../src/programacionEstructurada_4.png)
 
 Damos click en Next, la siguiente es la ventana de licencia en la que damos click en I Agree:
 
-![src/programacionEstructurada_5.png](src/programacionEstructurada_5.png)
+![src/programacionEstructurada_5.png](../src/programacionEstructurada_5.png)
 
 Verificamos que este palomeado todo la instalación por defecto y damos click en Next:
 
-![src/programacionEstructurada_6.png](src/programacionEstructurada_6.png)
+![src/programacionEstructurada_6.png](../src/programacionEstructurada_6.png)
 
 Nos muestra la carpeta en la que se guardara el programa, damos click en Install:
 
-![src/programacionEstructurada_7.png](src/programacionEstructurada_7.png)
+![src/programacionEstructurada_7.png](../src/programacionEstructurada_7.png)
 
 Y ya está, el programa será instalado en tu computadora o laptop.

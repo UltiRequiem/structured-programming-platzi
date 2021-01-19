@@ -18,7 +18,7 @@ Los operadores aritméticos básicos en C son:
 
 En nuestro ejemplo pedimos que el usuario ingrese dos números enteros, después realizamos las operaciones aritméticas y finalmente imprimimos el resultado:
 
-![src/programacionEstructurada_21.png](src/programacionEstructurada_21.png)
+![src/programacionEstructurada_21.png](../src/programacionEstructurada_21.png)
 
 **PRIMER RETO**
 
