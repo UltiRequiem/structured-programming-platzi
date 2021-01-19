@@ -28,4 +28,4 @@ Se incrementa el rendimiento de los programadores.
 - [Repositorio de los ejercicios del mismo Platzi](https://github.com/platzi/estructurada)
 - [Algunos tutoriales utiles](https://www.tutorialesprogramacionya.com/cya/)
 
-**Toma el curso [aqui](https://platzi.com/clases/programacion-estructurada)**
+**Toma el curso [aquí](https://platzi.com/clases/programacion-estructurada).**
