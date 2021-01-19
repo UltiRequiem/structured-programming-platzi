@@ -27,3 +27,5 @@ Se incrementa el rendimiento de los programadores.
 - [Compilador Online de C](https://repl.it/new/c)
 - [Repositorio de los ejercicios del mismo Platzi](https://github.com/platzi/estructurada)
 - [Algunos tutoriales utiles](https://www.tutorialesprogramacionya.com/cya/)
+
+**Toma el curso [aqui](https://platzi.com/clases/programacion-estructurada)**
