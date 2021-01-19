@@ -26,3 +26,5 @@ Se incrementa el rendimiento de los programadores.
 ## Enlaces Utiles relacionados al curso:
 - [C ya](https://www.tutorialesprogramacionya.com/cya/)
 - [Compilador Online de C](https://repl.it/new/c)
+- [Repositorio de los ejercicios del mismo Platzi](https://github.com/platzi/estructurada)
+- [Notas de otro estudiante](https://github.com/Silvi1827/notas/blob/master/notas/nota_ProgramacionEstructurada.md)
