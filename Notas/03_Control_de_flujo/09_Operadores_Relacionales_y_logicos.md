@@ -1,4 +1,4 @@
-### Clase 9 *Operadores relacionales y lógicos*
+# Clase 9 *Operadores relacionales y lógicos*
 
 Se llaman operadores relacionales o de comparación a aquellos que permiten comparar dos valores evaluando si se relacionan cumpliendo el ser menor uno que otro, mayor uno que otro, igual uno que otro, etc. Los operadores lógicos permiten además introducir nexos entre condiciones como “y se cumple también que” u, “o se cumple que”.
 

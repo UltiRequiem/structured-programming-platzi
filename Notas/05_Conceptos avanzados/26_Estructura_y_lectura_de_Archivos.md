@@ -1,4 +1,4 @@
-### Clase 26 *Escritura y lectura de archivos*
+# Clase 26 *Escritura y lectura de archivos*
 
 **Escritura de archivos**
 

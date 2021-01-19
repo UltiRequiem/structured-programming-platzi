@@ -1,4 +1,4 @@
-### Clase 2 *Set up de codeblocks y compilador*
+# Clase 2 *Set up de codeblocks y compilador*
 
 Lo que vamos aprender antes de comenzar a programar es como hacer el set up de codeblocks y el compilador que vamos a utilizar.
 

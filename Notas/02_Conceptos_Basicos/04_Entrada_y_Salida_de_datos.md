@@ -1,4 +1,4 @@
-### Clase 4 *Entrada y salida de datos*
+# Clase 4 *Entrada y salida de datos*
 
 Aprenderemos como podemos tener información que entra y sale de nuestro programa, es decir, cuando nosotros usamos un input es una entrada que el usuario tiene con el programa y la información que visualizamos es la salida de los datos obtenidos. Por ejemplo, podemos obtener información mediante los teclados y posteriormente verlos en pantalla.
 

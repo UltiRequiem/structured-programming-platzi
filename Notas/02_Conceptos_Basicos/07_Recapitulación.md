@@ -1,4 +1,4 @@
-### Clase 7 *Recapitulación: Conceptos Básicos*
+# Clase 7 *Recapitulación: Conceptos Básicos*
 
 ¡Hola bienvenido al curso de Programación Estructurada!
 

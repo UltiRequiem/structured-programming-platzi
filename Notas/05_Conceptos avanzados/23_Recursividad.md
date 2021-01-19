@@ -1,4 +1,4 @@
-### Clase 23 *Recursividad*
+# Clase 23 *Recursividad*
 
 En matemáticas se da el nombre de recursión a la técnica consistente en definir una función en términos de sí misma. Puesto que en C una función puede llamar a otras funciones, se permite que una función también pueda llamarse a sí misma.
 

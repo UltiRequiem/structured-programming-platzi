@@ -1,4 +1,4 @@
-### Clase 8 *Condicional if e if - else*
+# Clase 8 *Condicional if e if - else*
 
 Las condicionales son instrucciones que evalúan resultados booleanos (verdadero o falso), generalmente usados para alterar el flujo de un programa.
 

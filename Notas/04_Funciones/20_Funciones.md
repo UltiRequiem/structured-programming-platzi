@@ -1,4 +1,4 @@
-### Clase 20 *Funciones: Divide y vencerás*
+# Clase 20 *Funciones: Divide y vencerás*
 
 La experiencia ha mostrado que la mejor forma de desarrollar y mantener un programa grande es construirlo a partir de piezas menores o módulos, siendo cada uno de ellos más fácil de manipular que el programa original. Esta técnica se conoce como divide y vencerás.
 

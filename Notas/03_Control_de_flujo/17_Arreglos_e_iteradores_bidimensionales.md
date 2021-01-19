@@ -1,4 +1,4 @@
-### Clase 17 *Arreglos e iteradores bidimensionales*
+# Clase 17 *Arreglos e iteradores bidimensionales*
 
 Para poder utilizar el iterador for junto con un arreglo bidimensional es necesario entender el concepto de un for anidado.
 

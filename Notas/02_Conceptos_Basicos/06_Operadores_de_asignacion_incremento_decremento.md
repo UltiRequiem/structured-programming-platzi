@@ -1,4 +1,4 @@
-### Clase 6 *Operadores de asignación, de incremento y decremento*
+# Clase 6 *Operadores de asignación, de incremento y decremento*
 
 Un operador de asignación altera el valor de un objeto sin alterar su tipo. El operador usual de asignación (=), copia el valor del operando de la derecha en el operando de la izquierda, aplicando las conversiones de tipo usuales cuando es necesario.
 

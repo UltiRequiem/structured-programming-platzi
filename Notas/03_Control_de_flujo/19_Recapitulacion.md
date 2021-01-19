@@ -1,4 +1,4 @@
-### Clase 19 *Recapitulación: Control de Flujo*
+# Clase 19 *Recapitulación: Control de Flujo*
 
 En esta lectura vamos a recapitular los conceptos de control de flujo que aprendimos en el curso.
 

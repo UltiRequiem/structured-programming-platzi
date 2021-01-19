@@ -1,4 +1,4 @@
-### Clase 21 *Variables locales y globales*
+# Clase 21 *Variables locales y globales*
 
 Las reglas de ámbito de un lenguaje son las reglas que controlan si un fragmento de código conoce o tiene acceso a otro fragmento de código o de datos.
 

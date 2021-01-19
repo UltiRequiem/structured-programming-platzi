@@ -1,4 +1,4 @@
-### Clase 16 *Arreglos e iteradores unidimensionales*
+# Clase 16 *Arreglos e iteradores unidimensionales*
 
 Ya vimos los arreglos unidimensionales y ya hemos guardado los datos de forma manual, pero una forma más fácil de usar arreglos, en especial cuando son arreglos grandes, son los iteradores.
 

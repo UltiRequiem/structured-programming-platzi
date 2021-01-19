@@ -1,4 +1,4 @@
-### Clase 13 *Ciclo Do-While*
+# Clase 13 *Ciclo Do-While*
 
 El Do - While es una estructura de control donde la condición de continuación del ciclo se prueba al final del mismo.
 

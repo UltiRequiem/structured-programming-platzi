@@ -1,4 +1,4 @@
-### Clase 3 *Variables y tipos de datos (Asignación y clasificación)*
+# Clase 3 *Variables y tipos de datos (Asignación y clasificación)*
 
 **Diseño de programas de software**
 

@@ -1,4 +1,4 @@
-### Clase 25 *Struct y manejo de archivos*
+# Clase 25 *Struct y manejo de archivos*
 
 **Estructura**
 
