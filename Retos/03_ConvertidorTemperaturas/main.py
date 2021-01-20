@@ -1,11 +1,15 @@
   
 def main():
 
-    fahrenheits = int(input('Ingresa la temperatura en grados Celsius: '))
+    radio = int(input('Ingresa el radio de la base: '))
     
-    celsius = ((fahrenheits - 32) *5)/9
+    area = radio * 3.1416
 
-    print('La temperatura en grados Celsius es '+ str(celsius))
+    altura = int(input('Ingresa la altura de la base: '))
+
+    volumen = area * altura
+
+    print('El volumen del cilindro es '+ str(volumen))
 
 if __name__ == "__main__":
     main()
