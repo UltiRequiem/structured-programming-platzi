@@ -1,15 +1,16 @@
   
 def main():
+    try:
+        print("Ret 03: Transformador de Grados Fahrenheit a Celsius \n")
 
-    radio = int(input('Ingresa el radio de la base: '))
-    
-    area = radio * 3.1416
+        fahrenheits = int(input('Ingresa la temperatura en grados Fahrenheit: '))
+        celsiusTemp = ((fahrenheits - 32) *5)/9
 
-    altura = int(input('Ingresa la altura de la base: '))
+        print('\nLa temperatura en grados Celsius es: '+ str(celsiusTemp))
 
-    volumen = area * altura
+    except ValueError:
+        print('Solo puedes ingresar números aqui')
 
-    print('El volumen del cilindro es '+ str(volumen))
 
 if __name__ == "__main__":
     main()
