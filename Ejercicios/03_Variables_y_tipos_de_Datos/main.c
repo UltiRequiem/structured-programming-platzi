@@ -6,8 +6,7 @@ int main()
 
     int healthpoints = 100;
     float damage = 13.05;
-    char favoriteLetter = 'D'
-    bool hasFun = false;
+    char favoriteLetter = 'D';
 
     return 0;
 }
