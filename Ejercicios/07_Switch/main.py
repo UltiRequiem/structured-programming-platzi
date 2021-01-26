@@ -10,7 +10,7 @@ def main():
     elif x == 3:
         print("\nElegiste el numero tres.\n\n")
     else:
-        print('\nElegiste un numero raro.\n')
+        print('\nElegiste un numero raro    .\n')
 
 
 if __name__ == '__main__':
