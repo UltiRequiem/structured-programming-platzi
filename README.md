@@ -1,5 +1,6 @@
 # Curso de Programación Estructurada explicado con C
-[![Gmail Badge](https://img.shields.io/badge/-eliaz.bobadilladev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eliaz.bobadilladev@gmail.com)](mailto:eliaz.bobadilladev@gmail.com) 
+
+[![Gmail Badge](https://img.shields.io/badge/-eliaz.bobadilladev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eliaz.bobadilladev@gmail.com)](mailto:eliaz.bobadilladev@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-EliazBobadilla-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/EliazNobadilla/)](https://www.linkedin.com/in/eliazbobadilla/) [![Twitter Badge](https://img.shields.io/badge/-@UltiRequiem-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/@UltiRequiem)](https://www.twitter.com/@UltiRequiem) [![Visual Studio Code Marketplace](https://img.shields.io/badge/Marketplace-VS-brightgreen)](https://marketplace.visualstudio.com/publishers/EliazBobadilla) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 
 **Ventajas de la Programación Estructurada:**
@@ -13,7 +14,7 @@
 - Reducción de los costos de mantenimiento. Análogamente a la depuración, durante la fase de mantenimiento, modificar o extender los programas resulta más fácil.
 
 - Los programas son más sencillos y más rápidos de confeccionar.
-Se incrementa el rendimiento de los programadores.
+  Se incrementa el rendimiento de los programadores.
 
 **Desventajas de la Programación Estructurada:**
 
@@ -27,6 +28,7 @@ Se incrementa el rendimiento de los programadores.
 - Permite trabajar con código de bajo nivel, logrando interacciones donde ortos lenguajes no llegan.
 
 ## Enlaces Utiles relacionados al curso:
+
 - [Compilador Online de C](https://repl.it/new/c)
 - [Repositorio de los ejercicios del mismo Platzi](https://github.com/platzi/estructurada)
 - [Algunos tutoriales utiles](https://www.tutorialesprogramacionya.com/cya/)
