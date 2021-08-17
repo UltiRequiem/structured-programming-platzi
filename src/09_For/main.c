@@ -1,24 +1,22 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main()
-{
-    printf("Iterador For.\n\n");
+int main() {
+  printf("Iterador For.\n\n");
 
-    int limSup, limInf;
+  int limSup, limInf;
 
-    printf("Imprimir en orden descendiente.\n");
+  printf("Imprimir en orden descendiente.\n");
 
-    printf("Ingresa el limite superior: ");
-    scanf("%d", &limSup);
+  printf("Ingresa el limite superior: ");
+  scanf("%d", &limSup);
 
-    printf("Ingresa el limite inferior: ");
-    scanf("%d", &limInf);
+  printf("Ingresa el limite inferior: ");
+  scanf("%d", &limInf);
 
-    printf("\n");
-    for(int i = limSup; i >= limInf; i--)
-    {
-        printf("Numero: %d \n", i);
-    }
+  printf("\n");
+  for (int i = limSup; i >= limInf; i--) {
+    printf("Numero: %d \n", i);
+  }
 
-    return 0;
+  return 0;
 }

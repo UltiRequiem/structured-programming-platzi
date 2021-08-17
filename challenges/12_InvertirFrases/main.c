@@ -1,20 +1,18 @@
-#include<stdio.h>
-#include<string.h>
+#include <stdio.h>
+#include <string.h>
 
-int main()
-{
-    printf("Invertir la frase.\n\n");
+int main() {
+  printf("Invertir la frase.\n\n");
 
-    char frase[50];
+  char frase[50];
 
-    printf("Ingresa una frase: \n\n");
+  printf("Ingresa una frase: \n\n");
 
-    gets(frase);
+  gets(frase);
 
-    for(int i = 0; i < strlen(frase); i++)
-    {
-        printf("%c", frase[(strlen(frase) - 1) - i]);
-    }
+  for (int i = 0; i < strlen(frase); i++) {
+    printf("%c", frase[(strlen(frase) - 1) - i]);
+  }
 
-    return 0;
+  return 0;
 }
