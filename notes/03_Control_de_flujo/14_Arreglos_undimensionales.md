@@ -1,4 +1,4 @@
-# Clase 14 *Arreglos unidimensionales*
+# Clase 14 _Arreglos unidimensionales_
 
 Un arreglo o array es básicamente una estructura de datos almacenada como una sola variable. Hasta el momento habíamos visto variables y constantes, pero en este caso es una estructura algo más compleja, ya que se compone de varios elementos de un mismo tipo. Por ejemplo, podía ser una lista finita de números o de palabras que se almacenarían en celdas contiguas de memoria.
 
@@ -28,7 +28,7 @@ Finalmente imprimimos diferentes valores: Con integerList imprimimos el primer v
 
 **NOTA:**
 
-  Aparece un nuevo carácter no imprimible "\t" que nos da una tabulación de cuatro líneas.
+Aparece un nuevo carácter no imprimible "\t" que nos da una tabulación de cuatro líneas.
 
 **RETO**
 

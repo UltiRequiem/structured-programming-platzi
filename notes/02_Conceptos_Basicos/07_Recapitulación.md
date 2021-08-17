@@ -1,4 +1,4 @@
-# Clase 7 *Recapitulación: Conceptos Básicos*
+# Clase 7 _Recapitulación: Conceptos Básicos_
 
 ¡Hola bienvenido al curso de Programación Estructurada!
 
@@ -33,7 +33,7 @@ Otros operadores de asignación pueden ser:
 
 - +=
 - -=
-- *=
+- \*=
 - /=
 - %=
 
@@ -41,7 +41,7 @@ Que como vimos en el curso, teniendo en cuenta una variable a, son una versión 
 
 - a += 3 ------ a = a + 3
 - a -= 3 ------ a = a - 3
-- a *= 3 ------ a = a * 3
+- a _= 3 ------ a = a _ 3
 - a /= 3 ------ a = a / 3
 - a %= 3 ------ a = a % 3
 
@@ -51,7 +51,7 @@ Otros operadores que podemos utilizar son los operadores numéricos, estos son:
 
 - (+) Suma
 - (-) Resta
-- (*) Multiplicación
+- (\*) Multiplicación
 - (/) División
 - (%) Módulo
 

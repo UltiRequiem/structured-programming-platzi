@@ -1,4 +1,4 @@
-# Clase 22 *Recapitulación: Funciones*
+# Clase 22 _Recapitulación: Funciones_
 
 En esta lectura vamos a hablar un poco sobre funciones y cómo utilizarlas.
 

@@ -1,4 +1,4 @@
-# Clase 5 *Operadores aritméticos*
+# Clase 5 _Operadores aritméticos_
 
 Se llaman operadores aritméticos a aquellos que permiten realizar cálculos con valores numéricos para obtener un resultado. Los operadores aritméticos más habituales son la suma, resta, multiplicación y división. En C y en otros lenguajes disponemos de un operador adicional al que denominamos operador módulo (%), que nos permite obtener el resto de una división entre enteros.
 
@@ -12,7 +12,7 @@ Los operadores aritméticos básicos en C son:
 
 - Suma: +
 - Resta: -
-- Multiplicación: *
+- Multiplicación: \*
 - División: /
 - Módulo: %
 

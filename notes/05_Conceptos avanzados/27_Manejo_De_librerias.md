@@ -1,4 +1,4 @@
-# Clase 27 *Manejo de librerías*
+# Clase 27 _Manejo de librerías_
 
 Las librerías son un grupo de archivos que tienen una funcionalidad preconstruidas por terceros, y que puede ser usadas por cualquier ejecutable. Las librerías contienen en su interior variables y funciones, se conoce como librerías (o bibliotecas) a cierto tipo de archivos que podemos importar o incluir en nuestro programa. Estos archivos contienen las especificaciones de diferentes funcionalidades ya construidas y utilizables, como por ejemplo leer del teclado o mostrar algo por pantalla entre muchas otras más. al poder incluir estas librerías con definiciones de diferentes funcionalidades podremos ahorrarnos gran cantidad de cosas.
 

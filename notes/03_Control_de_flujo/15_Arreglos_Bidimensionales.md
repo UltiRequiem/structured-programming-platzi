@@ -1,4 +1,4 @@
-# Clase 15 *Arreglos bidimensionales*
+# Clase 15 _Arreglos bidimensionales_
 
 Los arreglos bidimensionales son también llamados tablas o matrices tienen varias filas y columnas. Tiene dos índices: el primero indica el número de fila y el segundo el número de columna en que se encuentra el elemento.
 

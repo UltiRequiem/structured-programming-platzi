@@ -1,4 +1,4 @@
-# Clase 26 *Escritura y lectura de archivos*
+# Clase 26 _Escritura y lectura de archivos_
 
 **Escritura de archivos**
 
@@ -22,7 +22,7 @@ También tenemos:
 
   Una vez realizadas todas las operaciones deseadas sobre el fichero hay que cerrarlo. Es importante no olvidar este paso pues el fichero podría corromperse. Al cerrarlo se vacían los buffers y se guarda el fichero en disco. Un fichero se cierra mediante la función fclose.
 
-***NOTA: Para saber el tamaño de nuestro tipo de dato usamos la función sizeof que nos devuelve el tamaño en bytes que ocupa una variable o algún tipo de dato.***
+**_NOTA: Para saber el tamaño de nuestro tipo de dato usamos la función sizeof que nos devuelve el tamaño en bytes que ocupa una variable o algún tipo de dato._**
 
 **Lectura de archivos**
 

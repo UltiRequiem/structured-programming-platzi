@@ -1,5 +1,5 @@
 def main():
-    print('07_Switch')
+    print("07_Switch")
 
     x = int(input("Ingresa un numero: "))
 
@@ -10,8 +10,8 @@ def main():
     elif x == 3:
         print("\nElegiste el numero tres.\n\n")
     else:
-        print('\nElegiste un numero raro    .\n')
+        print("\nElegiste un numero raro    .\n")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

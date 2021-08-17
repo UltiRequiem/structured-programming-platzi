@@ -1,4 +1,4 @@
-# Clase 8 *Condicional if e if - else*
+# Clase 8 _Condicional if e if - else_
 
 Las condicionales son instrucciones que evalúan resultados booleanos (verdadero o falso), generalmente usados para alterar el flujo de un programa.
 
@@ -38,9 +38,9 @@ Seguimos con el ejemplo de tres variables con valores distintos. Tenemos una pri
 
 **NOTA:**
 
-  No debemos confundir = con el ==.
+No debemos confundir = con el ==.
 
-  Un solo igual (=) es asignación, asigna un valor a algo (ejemplo, valA = 50). En cambio, dos iguales (==) son para comparar, evalúan si un valor es igual otro valor (ejemplo, valA == valB).
+Un solo igual (=) es asignación, asigna un valor a algo (ejemplo, valA = 50). En cambio, dos iguales (==) son para comparar, evalúan si un valor es igual otro valor (ejemplo, valA == valB).
 
 **RETO**
 

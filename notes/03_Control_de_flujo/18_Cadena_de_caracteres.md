@@ -1,4 +1,4 @@
-# Clase 18 *Cadena de caracteres (string)*
+# Clase 18 _Cadena de caracteres (string)_
 
 En C no existe un tipo predefinido para manipular cadenas de caracteres (string). Sin embargo, el estándar de C define algunas funciones de biblioteca para tratamiento de cadenas. Una cadena en C es un array de caracteres de una dimensión (vector de caracteres) con la particularidad que tienen una marca en el fin del mismo (el caracter '\0'), además el lenguaje nos permite escribirlas como texto dentro de comillas dobles si son simples no.
 

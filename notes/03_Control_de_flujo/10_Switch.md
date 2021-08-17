@@ -1,4 +1,4 @@
-# Clase 10 *Switch*
+# Clase 10 _Switch_
 
 Switch es una estructura de control para agilizar el flujo del programa en opciones múltiples.
 

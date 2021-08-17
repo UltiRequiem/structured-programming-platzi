@@ -1,4 +1,4 @@
-# Clase 11 *¿Qué es un iterador? - Ciclo While*
+# Clase 11 _¿Qué es un iterador? - Ciclo While_
 
 Un loop es una estructura iterativa que permite repetir un bloque de instrucciones. Esta repetición es controlada por una condición booleana.
 

@@ -1,4 +1,4 @@
-# Clase 12 *Ciclo For*
+# Clase 12 _Ciclo For_
 
 El ciclo for es una estructura de control que nos permite repetir un bloque de comandos un número de veces específico.
 

@@ -1,4 +1,4 @@
-# Clase 19 *Recapitulación: Control de Flujo*
+# Clase 19 _Recapitulación: Control de Flujo_
 
 En esta lectura vamos a recapitular los conceptos de control de flujo que aprendimos en el curso.
 
@@ -30,6 +30,7 @@ Los operadores lógicos son:
 - && Y/And
 
 Teniendo en cuenta más de una condición, el resultado será verdadero si ambas condiciones son verdaderas.
+
 - || O/Or
 
 Teniendo en cuenta más de una condición, el resultado será verdadero si alguna o ambas condiciones son verdaderas, solo una necesita cumplirse.

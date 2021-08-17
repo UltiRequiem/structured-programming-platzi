@@ -1,4 +1,4 @@
-# Clase 3 *Variables y tipos de datos (Asignación y clasificación)*
+# Clase 3 _Variables y tipos de datos (Asignación y clasificación)_
 
 **Diseño de programas de software**
 
@@ -36,13 +36,13 @@ Un tipo de dato es, en esencia, un espacio en memoria con restricciones.
 
     Algunos ejemplos de números enteros pueden ser: 3, 27, -18, 0
 
-	- **float / double:** Son los números reales o de coma flotante. Los tipos de datos flotantes contienen una coma (un punto) decimal, pueden ser positivos y negativos formando el subconjunto de los números reales. Para representar números muy pequeños o muy grandes se emplea la notación de punto flotante, que es una generalización de la notación científica. El lenguaje C soporta tres formatos de coma flotante; el tipo float requiere 4 bytes de memoria, double 8 bytes, y long double 10 bytes.
+  - **float / double:** Son los números reales o de coma flotante. Los tipos de datos flotantes contienen una coma (un punto) decimal, pueden ser positivos y negativos formando el subconjunto de los números reales. Para representar números muy pequeños o muy grandes se emplea la notación de punto flotante, que es una generalización de la notación científica. El lenguaje C soporta tres formatos de coma flotante; el tipo float requiere 4 bytes de memoria, double 8 bytes, y long double 10 bytes.
 
     Algunos ejemplos de números flotantes o dobles pueden ser: 3.14, -0.01, 1.8, 0.27
 
 - **Caracteres:** El almacenamiento de caracteres en el interior de la computadora se hace en “palabras” de 8 bits (1 byte). Este tipo representa valores enteros en el rango 2128 a 1127. El lenguaje C proporciona el tipo unsigned char para representar valores de 0 a 255 y así representar todos los caracteres ASCII.
 
-  Una característica de la parte estándar del conjunto de caracteres (los 128 primeros) es que contiene las letras mayúsculas, las minúsculas y los dígitos, y que cada uno de estos tres subconjuntos está ordenado en su forma natural, por lo que podemos manejar rangos de caracteres bien definidos. Los caracteres se almacenan internamente como números y por lo tanto se pueden realizar operaciones aritméticas con datos tipo char. Existe también el dato tipo cadena (compuesto), que es una sucesión de caracteres que se encuentran delimitados por comillas; la longitud de una cadena es el número de caracteres comprendidos entre los  delimitadores "[long_cad]".
+  Una característica de la parte estándar del conjunto de caracteres (los 128 primeros) es que contiene las letras mayúsculas, las minúsculas y los dígitos, y que cada uno de estos tres subconjuntos está ordenado en su forma natural, por lo que podemos manejar rangos de caracteres bien definidos. Los caracteres se almacenan internamente como números y por lo tanto se pueden realizar operaciones aritméticas con datos tipo char. Existe también el dato tipo cadena (compuesto), que es una sucesión de caracteres que se encuentran delimitados por comillas; la longitud de una cadena es el número de caracteres comprendidos entre los delimitadores "[long_cad]".
 
   - **char:** Una variable tipo char se representa como un solo carácter encerrado entre comillas simples.
 
@@ -64,7 +64,7 @@ Para declarar una variable es necesario poner el tipo de dato que deseamos, segu
 
 Para asignarle un valor es necesario el nombre de la variable (healthpoints) seguido del operador de asignación (=) y el valor que le daremos (100)
 
-***NOTA: No debemos confundir el operador de asignación (=) con el de comparación (==).***
+**_NOTA: No debemos confundir el operador de asignación (=) con el de comparación (==)._**
 
 **Inicialización de una variable**
 

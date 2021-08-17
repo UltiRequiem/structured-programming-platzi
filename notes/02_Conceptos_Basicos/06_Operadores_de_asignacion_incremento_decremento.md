@@ -1,4 +1,4 @@
-# Clase 6 *Operadores de asignación, de incremento y decremento*
+# Clase 6 _Operadores de asignación, de incremento y decremento_
 
 Un operador de asignación altera el valor de un objeto sin alterar su tipo. El operador usual de asignación (=), copia el valor del operando de la derecha en el operando de la izquierda, aplicando las conversiones de tipo usuales cuando es necesario.
 
@@ -10,7 +10,7 @@ Declaramos una variable entera de nombre value y le asignamos (=) el valor 11.
 
 1. Le asignamos la suma (+=) de 1, es decir, le sumamos 1 (value + 1 o 11 + 1)
 2. Le asignamos la resta (-=) de 2, es decir, le restamos 2 (value - 2 o 12 - 2)
-3. Le asignamos el producto (*=) de 5, es decir, lo multiplicamos por 5 (value * 5 o 10 * 5)
+3. Le asignamos el producto (_=) de 5, es decir, lo multiplicamos por 5 (value _ 5 o 10 \* 5)
 4. Le asignamos la división (/=) de 4, es decir, dividimos por 4 (value / 4 o 50 / 4)
 5. Le asignamos el módulo (%=) de 4, es decir, tenemos el resto de la división por 4 (value % 4 o 50 % 4)
 
